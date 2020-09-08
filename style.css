@@ -1,0 +1,96 @@
+html{
+    background-image: url(imagenes/fondo.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+}
+
+header{
+    background-color: rgba(255, 255, 255, 0.329);
+    
+}
+body{background-color: powderblue;
+    margin: 20px 20%;
+    padding-bottom: 40px;
+
+
+
+
+}
+
+    
+    
+   
+
+
+
+li{ background-color: rgb(154, 250, 154);
+    float: left;
+    display: block;
+    border-style: double;
+    margin-left: -15px;
+    text-align: center;
+    width: 33%;
+    height: 50px;
+    padding-top: 25px;
+   
+}
+.NavP:hover{
+color: red;
+cursor: pointer;
+
+
+}
+
+
+.deslol{
+    
+    width: 100%;
+    height: 400px;
+    
+}
+.deslol:hover{
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+    overflow: hidden;
+}
+
+section{
+    margin-top: 150px;
+    padding-left: 21px;
+    padding-right: 21px;
+
+
+}
+
+.MapR{
+    width: 100%;
+    height: 360px;
+    background-image: url(imagenes/runaterraMap.jpg);
+    background-size: contain;
+    ima
+
+
+}
+
+.MapR:hover {
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+    overflow: hidden;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    
+
+}
+table tr td{
+    border: 1px solid #000;
+    text-align: center;
+
+
+}
+
+
